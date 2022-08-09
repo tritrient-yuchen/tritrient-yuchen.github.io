@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My blog</title>
-    <link>https://example.com/</link>
+    <link>https://tritrient.github.io/</link>
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-    <lastBuildDate>Tue, 09 Aug 2022 13:47:15 -0400</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Aug 2022 13:47:15 -0400</lastBuildDate><atom:link href="https://tritrient.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Myfristpost</title>
-      <link>https://example.com/posts/myfristpost/</link>
+      <link>https://tritrient.github.io/posts/myfristpost/</link>
       <pubDate>Tue, 09 Aug 2022 13:47:15 -0400</pubDate>
       
-      <guid>https://example.com/posts/myfristpost/</guid>
+      <guid>https://tritrient.github.io/posts/myfristpost/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>https://example.com/posts/hello-world/</link>
+      <link>https://tritrient.github.io/posts/hello-world/</link>
       <pubDate>Tue, 09 Aug 2022 13:38:58 -0400</pubDate>
       
-      <guid>https://example.com/posts/hello-world/</guid>
+      <guid>https://tritrient.github.io/posts/hello-world/</guid>
       <description></description>
     </item>
     
